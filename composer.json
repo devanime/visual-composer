@@ -1,5 +1,5 @@
 {
-  "name": "devanime/visual_composer",
+  "name": "devanime/visual-composer",
   "description": "Copy of Visual Composer so we can use it in our composer infrastructure.",
   "type": "wordpress-plugin",
   "license": "GPL-3.0",
